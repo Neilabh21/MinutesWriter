@@ -1,5 +1,6 @@
 # MinutesWriter [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Takes Google Meet Transcript and converts it into minutes. 
+This project was done as a part of the Unscripted project under SoC 2021. 
 
 ## Supported Platforms
 
